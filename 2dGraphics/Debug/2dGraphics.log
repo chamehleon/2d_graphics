@@ -1,0 +1,287 @@
+﻿  2dGraphics.cpp
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(129,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(136,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(137,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(147,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(148,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(161,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(164,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(210,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(222,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(222,82): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(222,68): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(222,53): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(222,39): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(228,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(228,82): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(228,68): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(228,53): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(228,39): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(244,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(253,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(253,82): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(253,68): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(253,53): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(253,39): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(259,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(259,82): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(259,68): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(259,53): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(259,39): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(276,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(285,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(285,84): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(285,70): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(285,55): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(285,41): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(291,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(291,84): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(291,70): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(291,55): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(291,41): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(307,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(316,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(316,84): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(316,70): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(316,55): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(316,41): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(322,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(322,84): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(322,70): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(322,55): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(322,41): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Curves.h(97,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Curves.h(98,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Curves.h(100,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Curves.h(101,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Curves.h(102,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Curves.h(103,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(59,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(59,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(60,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(60,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(64,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(64,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(65,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(65,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(113,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(113,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(114,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(114,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(118,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(118,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(119,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(119,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(373,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(394,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(400,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(406,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(411,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(417,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(418,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(424,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(425,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(431,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(432,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(438,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(444,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(445,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(462,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(467,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(475,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(480,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(487,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(492,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(498,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(505,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(506,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(512,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(513,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(516,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(516,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(516,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(516,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(517,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(517,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(517,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(517,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(521,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(522,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(523,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(523,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(523,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(523,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(523,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(523,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(529,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(534,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(538,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(538,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(538,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(538,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(539,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(539,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(539,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(539,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(543,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(544,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(544,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(544,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(544,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(544,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(544,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(579,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(580,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\2dGraphics.cpp(584,18): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(193,16): warning C4244: 'initializing': conversion from 'float' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(223): message : see reference to function template instantiation 'std::pair<int,int>::pair<float&,float&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=float &,
+              _Other2=float &
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\Clipping.h(223): message : see reference to function template instantiation 'std::pair<int,int>::pair<float&,float&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=float &,
+              _Other2=float &
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(193,54): warning C4244: 'initializing': conversion from 'float' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\2dGraphics\FillQuareter.h(23): warning C4715: 'checkOctant': not all control paths return a value
+  2dGraphics.vcxproj -> C:\Users\Nada Emam\Desktop\2dGraphics\2dGraphics\Debug\2dGraphics.exe
